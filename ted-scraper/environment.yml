@@ -2,7 +2,7 @@ name: tedbot
 channels:
   - conda-forge
 dependencies:
-  - python=3
+  - python=2
   - beautifulsoup4
   - scrapy
   - pip:
