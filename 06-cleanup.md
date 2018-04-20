@@ -6,7 +6,7 @@
 
 Delete the resource group:
 ```bash
-az group delete --name "gicampan-data-prod" --no-wait --yes
+az group delete --name "danielleos-data-prod" --no-wait --yes
 ```
 
 ## Restore default settings
