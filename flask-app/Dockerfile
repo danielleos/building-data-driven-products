@@ -1,5 +1,5 @@
-FROM tiangolo/uwsgi-nginx-flask:python3.6
+FROM tiangolo/uwsgi-nginx-flask:python2.7
 
-RUN pip3 install --no-cache-dir pydocumentdb
+RUN pip install --no-cache-dir pydocumentdb
 
 COPY ./app /app
