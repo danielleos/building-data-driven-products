@@ -1,6 +1,7 @@
 # Building data-driven products
 
-By Gianluca Campanella (<g.campanella@estimand.com>)
+Originally by Gianluca Campanella (<g.campanella@estimand.com>)
+Edited by Danielle O'Sullivan (<danielle.oh.es@gmail.com>) to provide support for Python 2 (until 2020 at which point, it will no longer be maintained)
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
